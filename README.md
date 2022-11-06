@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @c0deGirl
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning frontend 
-- 💞️ I’m looking to collaborate on probabli nothing as I don't know much yet :)
+- 💞️ I’m looking to collaborate on probably nothing as I don't know much yet :)
 - 📫 How to reach me ...
 
 <!---
